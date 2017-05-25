@@ -1,4 +1,4 @@
-# hello-forge-network
+## Hello Forge Network
 
 This repository contains an example of using forge to build and deploy
 an entire network of services into kubernetes. The network consists of
@@ -13,7 +13,7 @@ an entire network of services into kubernetes. The network consists of
 Connecting to <edge-ip>/<service-name> will access the corresponding
 service by name.
 
-## Repo Layout
+### Repo Layout
 
 Each of the four services is contained in a subdirectory of the
 corresponding name. This is all contained within a single repo for
