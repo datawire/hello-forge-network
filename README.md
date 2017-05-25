@@ -4,8 +4,8 @@ This repository contains an example of using forge to build and deploy
 an entire network of services into kubernetes. The network consists of
 4 services in total:
 
- - The *edge* service functions as an API gateway to the remaining
-   three services: *products*, *ratings*, and *users*
+ - The [edge](edge/README.md) service functions as an API gateway to
+   the remaining three services: *products*, *ratings*, and *users*
 
  - The *products*, *ratings*, and *users* services are all simple
    stubs.
