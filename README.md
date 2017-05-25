@@ -10,7 +10,7 @@ an entire network of services into kubernetes. The network consists of
  - The *products*, *ratings*, and *users* services are all simple
    stubs.
 
-Connecting to <edge-ip>/<service-name> will access the corresponding
+Connecting to `<edge-ip>/<service-name>` will access the corresponding
 service by name.
 
 ### Repo Layout
